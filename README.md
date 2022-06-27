@@ -2,7 +2,7 @@
 
 ## Análise da Relação Carga X Temperatura no Estado de São Paulo
 
-    Neste repositório apresentamos os arquivos gerados no Hackathon de Ciência de Dados da ONS.
+Neste repositório apresentamos os arquivos gerados no Hackathon de Ciência de Dados da ONS.
 
 ### Pasta "data":
 * Dados fornecidos pelos organizadores;
