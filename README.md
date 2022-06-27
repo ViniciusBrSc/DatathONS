@@ -8,6 +8,8 @@
 * Dados fornecidos pelos organizadores;
 * Dados obtidos na internet sobre características das cidades;
 * Dados gerados durante o tratamento e pré-processamento.
+* Link para a pasta "data" completa:
+    * https://drive.google.com/drive/folders/1Ro81xihJYvEAena6rSvhjHHgrMHmfmpV?usp=sharing  
 
 ### Pasta "code":
 * Notebooks escritos em Python utilizados para o pré-processamento, análise exploratória e modelagem. 
